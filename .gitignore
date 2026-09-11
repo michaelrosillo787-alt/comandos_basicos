@@ -4,3 +4,13 @@
 Thumbs.bd
 .env
 /tmp
+
+#Node JS
+node_modules/
+jspm_packages/
+.env.local
+.env.production.local
+.env.development.local
+dist/
+build/
+coverage/
